@@ -79,16 +79,6 @@ python3 -m venv .venv
 source .venv/bin/activate
 source setup.sh
 
----
-
-## Reproducibility
-
-To replicate the results locally:
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-source setup.sh
 ```
 
 ## Key Technical Highlights
