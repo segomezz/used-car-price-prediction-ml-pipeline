@@ -52,25 +52,23 @@ The pipeline includes:
 
 used-car-price-prediction-ml-pipeline/
 │
-├── data/
+ ├── data/
 │   └── raw/
 │       ├── train_data.csv
 │       └── test_data.csv
 │
-├── models/
+ ├── models/
 │   └── model.pkl.gz
 │
-├── outputs/
+ ├── outputs/
 │   └── metrics.json
 │
-├── src/
+ ├── src/
 │   └── model_development.ipynb
 │
-├── requirements.txt
-├── setup.sh
-└── README.md
-
----
+ ├── requirements.txt
+ ├── setup.sh
+ └── README.md
 
 ## Reproducibility
 
